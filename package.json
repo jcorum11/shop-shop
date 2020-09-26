@@ -1,5 +1,5 @@
 {
-  "name": "mern-shopping",
+  "name": "y",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -20,5 +20,16 @@
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcorum11/shop-shop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jcorum11/shop-shop/issues"
+  },
+  "homepage": "https://github.com/jcorum11/shop-shop#readme"
 }
