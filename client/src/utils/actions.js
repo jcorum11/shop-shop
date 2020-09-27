@@ -8,4 +8,3 @@ export const UPDATE_CART_QUANTITY = "UPDATE_CART_QUANTITY";
 export const CLEAR_CART = "CLEAR_CART";
 export const TOGGLE_CART = "TOGGLE_CART";
 
-
